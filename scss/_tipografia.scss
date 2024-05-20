@@ -1,39 +1,30 @@
-h1, h2, h3 , h4, h5, h6 {
+h1, h2, h3 , h4 {
     color: #F5F6FA;
-    font-family: 'Sora',sans-serif;
+    font-family: 'Poppins',sans-serif;
     font-style: normal;
     font-weight: 600;
-    line-height: 120%; 
+    line-height: 112%; 
     letter-spacing: -1.2px;
 }
 
 h1 {
-    font-size: 5.6rem;
+    font-size: 6.4rem;
 }
 
 h2 {
-    font-size: 4.8rem;
-}
-
-h3 {
     font-size: 4rem;
 }
 
-h4 {
-    font-size: 2.8rem;
-}
-
-h5 {
+h3 {
     font-size: 2.4rem;
 }
 
-h6 {
-    font-size: 2.2rem;
+h4 {
+    font-size: 2rem;
 }
 
-
 p {
-    color:#787C87;
+    color: white;
     font-family: 'Inter',sans-serif;
     font-size: 18px;
     line-height: 150%;
